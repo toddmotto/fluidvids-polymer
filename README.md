@@ -1,12 +1,12 @@
-# <fluid-vids>
+# &lt;fluid-vids&gt;
 
-<fluid-vids> is a web component built on Polymer.js that provides a fluid solution for video embeds.
+&lt;fluid-vids&gt; is a web component built on Polymer.js that provides a fluid solution for video embeds.
 
-> [Live demo of <fluid-vids>](http://toddmotto.com/labs/fluidvids-polymer).
+> [Live demo of &lt;fluid-vids&gt;](http://toddmotto.com/labs/fluidvids-polymer).
 
 See the original [fluidvids](//github.com/toddmotto/fluidvids).
 
-<fluid-vids> has a default ratio of `16:9`, so you can omit the `width` and `height` attributes if your video follows suit.
+&lt;fluid-vids&gt; has a default ratio of `16:9`, so you can omit the `width` and `height` attributes if your video follows suit.
 
 ## Usage
 
