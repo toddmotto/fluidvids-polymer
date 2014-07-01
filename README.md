@@ -10,20 +10,20 @@ See the original [fluidvids](//github.com/toddmotto/fluidvids).
 
 ## Usage
 
-1. Include platform.js and polymer.js:
+Include platform.js and polymer.js:
 
 ```html
 <script src="lib/platform.js"></script>
 <link rel="import" href="bower_components/polymer/polymer.html">
 ```
 
-2. Import Custom Element:
+Import Custom Element:
 
 ```html
 <link rel="import" href="fluid-vids.html">
 ```
 
-3. Start using it!
+Start using it!
 
 ```html
 <fluid-vids src="http://www.youtube.com/embed/JMl8cQjBfqk"></fluid-vids>
